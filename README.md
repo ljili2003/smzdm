@@ -1,9 +1,10 @@
 # 什么值得买每日签到脚本
+https://github.com/Chasing66/smzdm_bot
 
 <p>
-    <img src="https://img.shields.io/github/actions/workflow/status/Chasing66/smzdm_bot/checkin.yml?label=CheckIn">
+    <img src="https://img.shields.io/github/actions/workflow/status/Chasing66/smzdm_bot/checkin.yml?label=CheckIn"> 
     <img src="https://img.shields.io/github/actions/workflow/status/Chasing66/smzdm_bot/build.yml?label=Build">
-    <img src="https://img.shields.io/github/license/Chasing66/smzdm_bot">
+    <img src="https://img.shields.io/github/license/Chasing66/smzdm_bot"> 
     <img src="https://img.shields.io/docker/pulls/enwaiax/smzdm_bot">
 </p>
 
